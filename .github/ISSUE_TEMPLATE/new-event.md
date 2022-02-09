@@ -35,29 +35,18 @@ assignees:
 ### <br> **Internal Speaker 1**
 <br> **Internal Speaker Name:** _add name here, and handle_
 <br> **Internal Speaker Content:** _add the topic here, include links to the slide deck, etc..._
-- [ ] Initial Contact
-- [ ] Locked for Date & Time
-- [ ] Content rough idea 
-- [ ] Content rough draft
-- [ ] Content final draft
+
+
 
 _The External speakers, should talk about case studies  (theme relevant) using GitHub, civic tech, community, open source, getting started, technology._
 
 ### <br> **External Speaker 1**
 <br> **External Speaker Name:** _add name here, and handle_
 <br> **External Speaker Content:** _add the topic here, include links to the slide deck, etc..._
-- [ ] Initial Contact
-- [ ] Locked for Date & Time
-- [ ] Content rough idea 
-- [ ] Content rough draft
-- [ ] Content final draft
+
 
 ### <br> **External Speaker 2**
 <br> **External Speaker Name:** _add name here, and handle_
 <br> **External Speaker Content:** _add the topic here, include links to the slide deck, etc..._
-- [ ] Initial Contact
-- [ ] Locked for Date & Time
-- [ ] Content rough idea 
-- [ ] Content rough draft
-- [ ] Content final draft
+
 
